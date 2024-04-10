@@ -4,6 +4,9 @@ npm run dev
 # Start Prisma Studio
 npx prisma studio
 
+# Create table Prisma
+npx prisma migrate dev
+
 # pass.in
 
 O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**. 
